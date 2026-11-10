@@ -50,14 +50,6 @@ The system uses two Raspberry Pi devices connected through Wi-Fi and MQTT commun
 - Demonstrate communication between IoT devices using MQTT.
 - Improve traditional burglar alarm functionality.
 
-## Future Improvements
-
-- Add a buzzer and warning light.
-- Improve error handling to prevent crashes.
-- Automatically delete old recordings.
-- Implement event logging.
-- Improve system security.
-
 ## Disclaimer
 
 This project is an educational prototype and should not be relied upon as a complete commercial security system.
