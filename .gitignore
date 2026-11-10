@@ -1,1 +1,18 @@
 
+# Python files
+__pycache__/
+*.py[cod]
+
+# Private configuration
+.env
+config.py
+secrets.py
+
+# Video recordings
+*.mp4
+*.h264
+
+# Temporary files
+*.log
+.DS_Store
+
